@@ -1,0 +1,10 @@
+INFO:root:2021-09-25 00:22:56.445275:Trying to create a chore that already exists. chore='Bathroom'.
+INFO:root:2021-09-25 00:29:58.624745:Trying to create a chore with a sub_chore that doesn't exists. chore='TvRoom'.
+INFO:root:2021-09-25 00:30:39.585836:Trying to create a chore with a sub_chore that doesn't exists. sub_chore='Bathroom'.
+INFO:root:2021-09-25 00:34:04.678259:Trying to create a chore with a sub_chore that doesn't exists. sub_chore='asdf'.
+INFO:root:2021-09-25 00:46:44.395458:Trying to create a chore with a sub_chore that doesn't exists. sub_chore='Bedroom'.
+INFO:root:2021-09-25 00:52:00.255832:Trying to assigne a sub_chore to a chore that doesn't exist. Townhome
+INFO:root:2021-09-25 00:52:09.197163:Trying to assigne a sub_chore to a chore that doesn't exist. 
+INFO:root:2021-09-25 19:58:57.844352:Trying to make assignment with a user that doesn't exist. user='bobob'.
+INFO:root:2021-09-25 19:59:18.395805:Trying to make assignment with a chore that doesn't exist. chore='DADAD'.
+INFO:root:2021-09-25 19:59:48.348794:Trying to make assignment with a user that doesn't exist. user='Emily'.

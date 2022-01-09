@@ -1,0 +1,15 @@
+INFO:root:2021-09-24 23:08:15.000637:Creating new Slite3 database with name sam2.db.
+INFO:root:2021-09-24 23:08:15.001608:Creating ./db folder
+INFO:root:2021-09-24 23:08:15.001608:Creating sqlite3 database sam2.db.
+INFO:root:2021-09-24 23:08:15.002605:Sqlite3 database sam2.db created.
+INFO:root:2021-09-24 23:08:15.002605:Creating Tables
+INFO:root:2021-09-24 23:08:15.005604:Attempting to create table users.
+INFO:root:2021-09-24 23:08:15.020650:Table users created
+INFO:root:2021-09-24 23:08:15.021609:Attempting to create table chores.
+INFO:root:2021-09-24 23:08:15.032633:Table chores created
+INFO:root:2021-09-24 23:08:15.034574:Attempting to create table assignment.
+INFO:root:2021-09-24 23:08:15.045128:Table assignment created
+INFO:root:2021-09-24 23:08:15.046153:Tables created successfully
+INFO:root:2021-09-24 23:08:15.047117:New database sam2.db created and tables configured correctly.
+INFO:root:2021-09-24 23:54:32.158194:Trying to create a user that already exists. user='Mike'.
+INFO:root:2021-09-24 23:54:54.742120:Trying to create a user that already exists. user='Mike'.
