@@ -90,7 +90,7 @@ def main():
     list_chores(user)
 
     o.put_buttons(['Mark Chore Complete', 'Complain'], onclick=f.partial(complete_chores, f_user=user))
-
+    # Now tests
     s.hold()
 
 
